@@ -1,6 +1,6 @@
 # KTH-Summer-School-PINNs-PINA
 
-This repository contains the material for the lecture *Uncertainty Quantification in Scientific Machine Learning* at the Physics-Informed Neural Networks and Applications summer school at KTH 2025.
+This repository contains the material for the lecture *Uncertainty Quantification in Scientific Machine Learning* at the Physics-Informed Neural Networks and Applications summer school at KTH 2025. Slides available [here](https://www.canva.com/design/DAGql727GXw/JZ3gbH91MNLNTjCDirxb-g/edit?utm_content=DAGql727GXw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ## Getting Started:
  
